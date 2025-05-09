@@ -90,6 +90,9 @@
   <a href="https://www.linkedin.com/in/mjarah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1a1b27&logoColor=38bdae&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://portfolio-storychara.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=itch&label=&color=1a1b27&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website"  />
+  </a>
 </div>
 
 ###
