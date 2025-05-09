@@ -2,6 +2,16 @@
 
 ###
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StoryChara&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
