@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Chara.</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph-dark.svg">
