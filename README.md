@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! My name is Chara.</h2>
 
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph.svg">
