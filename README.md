@@ -1,11 +1,14 @@
-<h2 align="left">Hi 👋! My name is Charara.</h2>
+<h2 align="left">Hi 👋! My name is Chara.</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StoryChara&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
   <img src="https://streak-stats.demolab.com?user=StoryChara&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StoryChara&theme=tokyo-night&area=true&hide_border=false&hide_title=false&radius=10" height="230" alt="activity-graph graph"  />
+
   <img src="https://github-profile-trophy.vercel.app?username=StoryChara&theme=tokyonight&column=8&margin-h=10&no-frame=true&no-bg=false&margin-w=10&row=1" height="150" alt="trophy graph"  />
 </div>
 
@@ -64,5 +67,21 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/StoryChara/StoryChara/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://discord.com/users/349912950649126913" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1a1b27&logoColor=38bdae&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:mjarah@unal.edu.co" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=1a1b27&logoColor=38bdae&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mjarah/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1a1b27&logoColor=38bdae&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
