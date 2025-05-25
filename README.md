@@ -1,13 +1,8 @@
-<h2 align="left">Hi 👋!</h2>
-
 # 💫 About Me:
 
 🔭 I'm currently working on Web Development projects and RPA automation solutions using Python and JavaScript<br><br>👯 I'm looking to collaborate on projects involving AI integration, educational tech platforms, or initiatives promoting women in technology through WIE UNAL<br><br>🤝 I'm looking for help with advancing my skills in React, NodeJS, and Microsoft PowerApps development<br><br>🌱 I'm currently learning:<br>- Microsoft Dynamics 365<br>- Automation Anywhere<br>- Power BI<br>- Advanced Backend with Python<br>- WordPress Development<br><br>💬 Ask me about:<br>- Python Programming<br>- Database Management (MySQL)<br>- Educational mentoring<br>- Inclusive tech communities<br>- Social media content creation<br><br>⚡ Fun fact: While mastering multiple programming languages, I'm also learning Japanese - proving that my passion for languages goes beyond just coding! 🎌
 
 ###
-
-###
-
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/69637072?v=4"  />
 
@@ -70,24 +65,26 @@
 
   <img src="https://streak-stats.demolab.com?user=StoryChara&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
-  ![](https://github-contributor-stats.vercel.app/api?username=StoryChara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+  <p> </p>
 
-  <img src="https://github-profile-trophy.vercel.app?username=StoryChara&theme=tokyonight&column=8&margin-h=10&no-frame=true&no-bg=false&margin-w=15&row=2" height="300" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=StoryChara&theme=tokyonight&column=5&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="250" alt="trophy graph"  />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StoryChara&theme=tokyo-night&area=true&hide_border=false&hide_title=false&radius=10" height="230" alt="activity-graph graph"  />
+  <p> </p>
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=StoryChara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="210" />
 </div>
+
+<p> </p>
 
 <img src="https://raw.githubusercontent.com/StoryChara/StoryChara/output/snake.svg" alt="Snake animation" />
 
-###
+<p> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 <br clear="both">
 
