@@ -4,11 +4,13 @@
 
 ###
 
+# 💻 Tech Stack:
+
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/69637072?v=4"  />
 
 ###
 
-# 💻 Tech Stack:
+
 
 <div align="right">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
