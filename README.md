@@ -1,30 +1,19 @@
 <h2 align="left">Hi 👋!</h2>
 
-###
+# 💫 About Me:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph.svg">
-</picture>
+🔭 I'm currently working on Web Development projects and RPA automation solutions using Python and JavaScript<br><br>👯 I'm looking to collaborate on projects involving AI integration, educational tech platforms, or initiatives promoting women in technology through WIE UNAL<br><br>🤝 I'm looking for help with advancing my skills in React, NodeJS, and Microsoft PowerApps development<br><br>🌱 I'm currently learning:<br>- Microsoft Dynamics 365<br>- Automation Anywhere<br>- Power BI<br>- Advanced Backend with Python<br>- WordPress Development<br><br>💬 Ask me about:<br>- Python Programming<br>- Database Management (MySQL)<br>- Educational mentoring<br>- Inclusive tech communities<br>- Social media content creation<br><br>⚡ Fun fact: While mastering multiple programming languages, I'm also learning Japanese - proving that my passion for languages goes beyond just coding! 🎌
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StoryChara&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-  <img src="https://streak-stats.demolab.com?user=StoryChara&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StoryChara&theme=tokyo-night&area=true&hide_border=false&hide_title=false&radius=10" height="230" alt="activity-graph graph"  />
-
-  <img src="https://github-profile-trophy.vercel.app?username=StoryChara&theme=tokyonight&column=8&margin-h=10&no-frame=true&no-bg=false&margin-w=10&row=1" height="150" alt="trophy graph"  />
-</div>
-
 ###
+
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/69637072?v=4"  />
 
 ###
+
+# 💻 Tech Stack:
 
 <div align="right">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
@@ -70,15 +59,39 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="30" alt="wordpress logo"  />
 </div>
 
+<br clear="both">
+
 ###
 
-<br clear="both">
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StoryChara&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=StoryChara&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+  ![](https://github-contributor-stats.vercel.app/api?username=StoryChara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+  <img src="https://github-profile-trophy.vercel.app?username=StoryChara&theme=tokyonight&column=8&margin-h=10&no-frame=true&no-bg=false&margin-w=15&row=2" height="300" alt="trophy graph"  />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StoryChara&theme=tokyo-night&area=true&hide_border=false&hide_title=false&radius=10" height="230" alt="activity-graph graph"  />
+</div>
 
 <img src="https://raw.githubusercontent.com/StoryChara/StoryChara/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StoryChara/StoryChara/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <br clear="both">
+
+## 🌐 Socials:
 
 <div align="center">
   <a href="https://discord.com/users/349912950649126913" target="_blank">
@@ -89,6 +102,12 @@
   </a>
   <a href="https://www.linkedin.com/in/mjarah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1a1b27&logoColor=38bdae&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://ko-fi.com/mjarah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=1a1b27&logoColor=38bdae&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  </a>
+  <a href="https://paypal.me/StoryChara213" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=1a1b27&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
   <a href="https://portfolio-storychara.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=itch&label=&color=1a1b27&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website"  />
